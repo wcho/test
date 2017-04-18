@@ -1,1 +1,1 @@
-xxx;
+var xxx;
