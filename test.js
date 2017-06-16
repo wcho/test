@@ -1,6 +1,6 @@
 var xxxx;
 var yyy;
-1/0;
+yyy = xxxx+1;
 
 const zzz;
 
