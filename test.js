@@ -1,2 +1,1 @@
-var xxxx;
-var yyy;
+console.log("🗃");
